@@ -1,0 +1,7 @@
+{
+  "name": "schematize",
+  "owner": { "name": "Manushresth Krishnan" },
+  "plugins": [
+    { "name": "schematize", "source": "./", "description": "Codebase to architecture diagram with real cloud icons." }
+  ]
+}

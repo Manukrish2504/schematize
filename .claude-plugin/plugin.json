@@ -1,0 +1,21 @@
+{
+  "name": "schematize",
+  "description": "Reads a codebase and draws its architecture as a presentation-grade diagram with real AWS/Azure/GCP/Kubernetes/SaaS icons, boundary boxes and numbered flows, plus an interactive board with dark mode and PNG/SVG/GIF export.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Manushresth Krishnan"
+  },
+  "homepage": "https://github.com/Manukrish2504/schematize",
+  "repository": "https://github.com/Manukrish2504/schematize",
+  "license": "MIT",
+  "keywords": [
+    "architecture",
+    "diagram",
+    "aws",
+    "azure",
+    "gcp",
+    "kubernetes",
+    "system-design",
+    "skill"
+  ]
+}
